@@ -31,3 +31,8 @@ Este é um projeto desenvolvido como parte da disciplina de Computação Evoluci
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Viihtorugo/cc-computacao-evolucionaria-2024.2.git
+    ```
+2. Abra o terminal e digite o comando abaixo:
+    ```bash
+   make run_project
+    ```

@@ -9,15 +9,12 @@ def valor_nome(nome):
     return sum(tabela.get(letra.lower(), 0) for letra in nome)
 
 def limite_disciplinas(nome):
-    print(valor_nome(nome) % 3)
     return {0:10, 1:8, 2:6}[valor_nome(nome) % 3]
 
 def ritmo_conclusao(nome):
-    print(valor_nome(nome) % 3)
     return {0:"menor tempo possível", 1:"maior tempo possível", 2:"tempo médio"}[valor_nome(nome) % 3]
 
 def escolha_enfase(nome):
-    print(valor_nome(nome) % 3)
     return {0:"ênfase desejada", 1:"ênfase que reduz tempo", 2:"sem ênfase"}[valor_nome(nome) % 3]
 
 def criterio_disciplinas(nome):
