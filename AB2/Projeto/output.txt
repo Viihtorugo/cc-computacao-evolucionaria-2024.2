@@ -1,0 +1,104 @@
+==============
+COMPUTAÇÃO EVOLUCIONÁRIA == INTERAÇÃO HOMEM-MÁQUINA
+T != M
+-999
+==============
+TÓPICOS EM ENGENHARIA DE SOFTWARE - PROJETANDO LINHAS DE PRODUTO DE SOFTWARE == ACE 4
+T != N
+-999
+==============
+0
+==============
+PESQUISA OPERACIONAL == PROJETO E DESENVOLVIMENTO DE SISTEMAS
+{'horas': 56, 'turno': 'M', 'dias': 56}
+{'horas': 56, 'turno': 'M', 'dias': 356}
+PESQUISA OPERACIONAL == PROJETO E DESENVOLVIMENTO DE SISTEMAS
+{'horas': 56, 'turno': 'M', 'dias': 56}
+{'horas': 56, 'turno': 'M', 'dias': 356}
+PESQUISA OPERACIONAL == PROJETO E DESENVOLVIMENTO DE SISTEMAS
+{'horas': 56, 'turno': 'M', 'dias': 56}
+{'horas': 56, 'turno': 'M', 'dias': 356}
+PESQUISA OPERACIONAL == PROJETO E DESENVOLVIMENTO DE SISTEMAS
+{'horas': 56, 'turno': 'M', 'dias': 56}
+{'horas': 56, 'turno': 'M', 'dias': 356}
+MICROCONTROLADORES E APLICAÇÕES == SEGURANÇA DE SISTEMAS COMPUTACIONAIS
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+MICROCONTROLADORES E APLICAÇÕES == SEGURANÇA DE SISTEMAS COMPUTACIONAIS
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+MICROCONTROLADORES E APLICAÇÕES == SEGURANÇA DE SISTEMAS COMPUTACIONAIS
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+MICROCONTROLADORES E APLICAÇÕES == SEGURANÇA DE SISTEMAS COMPUTACIONAIS
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+PROJETO E DESENVOLVIMENTO DE SISTEMAS == PESQUISA OPERACIONAL
+{'horas': 56, 'turno': 'M', 'dias': 356}
+{'horas': 56, 'turno': 'M', 'dias': 56}
+PROJETO E DESENVOLVIMENTO DE SISTEMAS == PESQUISA OPERACIONAL
+{'horas': 56, 'turno': 'M', 'dias': 356}
+{'horas': 56, 'turno': 'M', 'dias': 56}
+PROJETO E DESENVOLVIMENTO DE SISTEMAS == PESQUISA OPERACIONAL
+{'horas': 56, 'turno': 'M', 'dias': 356}
+{'horas': 56, 'turno': 'M', 'dias': 56}
+PROJETO E DESENVOLVIMENTO DE SISTEMAS == PESQUISA OPERACIONAL
+{'horas': 56, 'turno': 'M', 'dias': 356}
+{'horas': 56, 'turno': 'M', 'dias': 56}
+SEGURANÇA DE SISTEMAS COMPUTACIONAIS == MICROCONTROLADORES E APLICAÇÕES
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+SEGURANÇA DE SISTEMAS COMPUTACIONAIS == MICROCONTROLADORES E APLICAÇÕES
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+SEGURANÇA DE SISTEMAS COMPUTACIONAIS == MICROCONTROLADORES E APLICAÇÕES
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+SEGURANÇA DE SISTEMAS COMPUTACIONAIS == MICROCONTROLADORES E APLICAÇÕES
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+PESQUISA OPERACIONAL == ACE 3
+M != T
+-16983
+==============
+SEGURANÇA DE SISTEMAS COMPUTACIONAIS == ACE 5
+T != M
+-999
+==============
+0
+==============
+0
+==============
+SISTEMAS EMBARCADOS == NAVEGAÇÃO EM ROBÓTICA MÓVEL
+M != T
+-999
+==============
+0
+==============
+MICROCONTROLADORES E APLICAÇÕES == SEGURANÇA DE SISTEMAS COMPUTACIONAIS
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+MICROCONTROLADORES E APLICAÇÕES == SEGURANÇA DE SISTEMAS COMPUTACIONAIS
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+MICROCONTROLADORES E APLICAÇÕES == SEGURANÇA DE SISTEMAS COMPUTACIONAIS
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+MICROCONTROLADORES E APLICAÇÕES == SEGURANÇA DE SISTEMAS COMPUTACIONAIS
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+SEGURANÇA DE SISTEMAS COMPUTACIONAIS == MICROCONTROLADORES E APLICAÇÕES
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+SEGURANÇA DE SISTEMAS COMPUTACIONAIS == MICROCONTROLADORES E APLICAÇÕES
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+SEGURANÇA DE SISTEMAS COMPUTACIONAIS == MICROCONTROLADORES E APLICAÇÕES
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+SEGURANÇA DE SISTEMAS COMPUTACIONAIS == MICROCONTROLADORES E APLICAÇÕES
+{'horas': 12, 'turno': 'T', 'dias': 24}
+{'horas': 12, 'turno': 'T', 'dias': 24}
+ACE 4 == MICROCONTROLADORES E APLICAÇÕES
+N != T
+-8991

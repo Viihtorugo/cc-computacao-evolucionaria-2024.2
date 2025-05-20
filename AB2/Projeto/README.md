@@ -6,7 +6,7 @@ Este é um projeto desenvolvido como parte da disciplina de Computação Evoluci
 
 - **Ruan Tenório de Melo**
 - **Victor Hugo Silva Ângelo**
-- **Vinícius da Costa Netizke**
+- **Vinícius da Costa Neitzke**
 
 ## 📊 Dados Utilizados
 
@@ -32,7 +32,7 @@ Este é um projeto desenvolvido como parte da disciplina de Computação Evoluci
    ```bash
    git clone https://github.com/Viihtorugo/cc-computacao-evolucionaria-2024.2.git
     ```
-2. Abra o terminal e digite o comando abaixo:
+2. Abra o terminal, vá para o diretório do repositório e digite o comando abaixo:
     ```bash
    make run_project
     ```
